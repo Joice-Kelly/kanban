@@ -16,6 +16,10 @@ Funcionalidades
     Acessibilidade
     Autenticação com JWT
 
+
+Funcionando
+[![Watch the video](src/assets/videos/main-demo-app.mp4)
+
 Installation
 
 $ pnpm install
