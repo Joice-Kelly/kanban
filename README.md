@@ -4,7 +4,7 @@ Um aplicativo fullStack completo de kanban app
 
 Front-end: React, Typescript, Zustand, TailwindCSS, React-Router-Dom, Radix-ui.
 
-Back-end: Node, Typescript, NestJS, Prisma, PostgresSQL, Docker.
+Back-end: Node, Typescript, NestJS, Prisma
 
 Host: Vercel, Railway
 Funcionalidades
